@@ -15,21 +15,21 @@ The model was trained on the census dataset provided in data/census.csv file.
 
 The data includes the following features:
 
-income (Target Variable)
-age  
-workclass  
-fnlwgt  
-education  
-education-num  
-marital-status  
-occupation  
-relationship  
-race  
-sex  
-capital-gain  
-capital-loss  
-hours-per-week  
-native-country  
+- income (Target Variable)
+- age  
+- workclass  
+- fnlwgt  
+- education  
+- education-num  
+- marital-status  
+- occupation  
+- relationship  
+- race  
+- sex  
+- capital-gain  
+- capital-loss  
+- hours-per-week  
+- native-country  
 
 ## Evaluation Data
 The model was evaluated on a test split derived from the original dataset, with approximately 20% of the data reserved to validate its performance.
