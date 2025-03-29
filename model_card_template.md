@@ -14,6 +14,7 @@ It is intended for use by data analysts seeking to understand income distributio
 The model was trained on the census dataset provided in data/census.csv file. 
 
 The data includes the following features:
+
 income (Target Variable)
 age  
 workclass  
